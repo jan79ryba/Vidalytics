@@ -1,8 +1,9 @@
 "# Vidalytics" 
 
-All DB credentials are please in class Model/Database 
+All DB credentials are in class Model/Database 
 
 The basket calculation are done inside the SQL query and after that optimized (calculated offers and cost of the delivery).
+
 Table offers consis of the offers:
 code - for which product this offer is created
 amount - how many products I have to buy to get the offer
